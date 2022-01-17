@@ -7,10 +7,12 @@
 
 <script>
 import Login from './components/Login'
+import SignUp from './components/SignUp'
 export default {
   name: 'App',
   components: {
-    Login
+    Login,
+    SignUp
   }
 }
 </script>
